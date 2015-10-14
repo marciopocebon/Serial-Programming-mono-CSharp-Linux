@@ -13,6 +13,8 @@ The tutorial teaches to
 - Read from Serial Port 
 - Control RTS and DTR pins 
 
-<a href="www.xanthium.in/Serial-Programming-using-Mono-and-CSharp-on-Linux">Full Tutorial can be found here</a>
+Full Tutorial can be found here
+
+www.xanthium.in/Serial-Programming-using-Mono-and-CSharp-on-Linux
 
 
